@@ -1,4 +1,6 @@
 ### Hi there 👋
+---
+  > Stay tuned to get updates
 
 <!--
 **criticalboot/criticalboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
