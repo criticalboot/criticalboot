@@ -26,7 +26,7 @@
 ## 🌱 Current Focus
 - Industrial IoT product development.  
 - AI-driven predictive maintenance solutions.  
-- Energy management systems for cement and manufacturing industries.  
+- Energy management systems for manufacturing industries.  
 
 ---
 
