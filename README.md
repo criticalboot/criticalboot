@@ -19,7 +19,7 @@
 - 🌐 **SmartEdge AI** – ESP32-based industrial edge device with MQTT, SQLite, and predictive maintenance.  
 - ⚡ **Energy Management System** – Data acquisition and visualization for industries using multifunction meters.  
 - 📊 **Predictive Maintenance Models** – Machine learning notebooks for motors and transformers health scoring.  
-- 🖥️ **Single Line Diagram Editor** – React + Tailwind + SVG frontend with NestJS backend.  
+<!-- - 🖥️ **Single Line Diagram Editor** – React + Tailwind + SVG frontend with NestJS backend.  -->
 
 ---
 
